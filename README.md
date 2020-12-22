@@ -6,3 +6,4 @@
 [Lab 03](/python/grading_lab.py)
 [Lab 04](python/magic_8_ball.py)
 [Lab 05](python/random_emoticon.py)
+[Lab 06](python/rock_paper_scissors_v1.py)
