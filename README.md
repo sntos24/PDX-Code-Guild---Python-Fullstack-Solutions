@@ -8,3 +8,4 @@
 [Lab 05](python/random_emoticon.py)
 [Lab 06](python/rock_paper_scissors_v1.py)
 [Lab 08 v1](python/guess_v2.py)
+[Lab 09 v2](python/lab_09_v2.py)
