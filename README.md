@@ -11,7 +11,7 @@
 
 [Lab 05](python/random_emoticon.py)
 
-[Lab 06]
+[Lab 06](python/lab06_password.py)
 
 [Lab 07](python/rock_paper_scissors_v1.py)
 
