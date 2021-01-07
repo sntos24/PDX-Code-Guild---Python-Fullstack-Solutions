@@ -22,3 +22,5 @@
 [Lab 12 v1](python/lab_12_blackjack.py)
 
 [Lab 13](python/lab13_unitcon.py)
+
+[Lab 15](python/lab15_wordcount.py)
