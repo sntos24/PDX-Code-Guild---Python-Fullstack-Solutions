@@ -4,9 +4,11 @@ Lab 15- Word Count by Marc Santos
 '''
 
 import string
+import requests
 
-with open('death_star.txt', 'r', encoding ='utf-8') as file:
-    text = file.read()
+response = requests.get('http://www.gutenberg.org/files/64217/64217-0.txt')
+response.encoding = 'utf-8' 
+text = response.text
 
 text = text.lower()
 
