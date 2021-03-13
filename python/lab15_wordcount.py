@@ -1,7 +1,4 @@
-'''
-Lab 15- Word Count by Marc Santos
-
-'''
+''' Word Count Lab '''
 
 import string
 import requests

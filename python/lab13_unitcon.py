@@ -1,6 +1,4 @@
-'''
-Unit Converter Lab by Marc Santos
-'''
+''' Unit Converter Lab '''
 
 
 units = {
